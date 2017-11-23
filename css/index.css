@@ -320,7 +320,11 @@ footer span a {
 		text-align: center;
 	}
 }
-
+@media screen and (min-width: 768px) and (max-width: 940px) {
+	aside h1 {
+		font-size: 1.5em;
+	}
+}
 @media screen and (max-width: 870px) {
 	
 	nav {
@@ -352,7 +356,7 @@ footer span a {
 		width: 20%; 
 		height: 394px; 
 	}
-	aside { 
+	aside {
 		border-right: none; 
 		border-top: 2px solid #e8e8e8; 
 		padding-top: 20px; 
