@@ -68,33 +68,33 @@ pre {
 	
 @font-face {
     font-family: 'BitstreamVeraSansRoman';
-    src: url("https://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.eot");
-    src: url("https://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.eot?#iefix") format('embedded-opentype'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.woff") format('woff'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.ttf") format('truetype'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.svg#BitstreamVeraSansRoman") format('svg');
+    src: url("http://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.eot");
+    src: url("http://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.eot?#iefix") format('embedded-opentype'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.woff") format('woff'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.ttf") format('truetype'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/Vera-webfont.svg#BitstreamVeraSansRoman") format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'BebasNeueRegular';
-    src: url("https://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.eot");
-    src: url("https://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.eot?#iefix") format('embedded-opentype'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.woff") format('woff'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.ttf") format('truetype'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.svg#BebasNeueRegular") format('svg');
+    src: url("http://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.eot");
+    src: url("http://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.eot?#iefix") format('embedded-opentype'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.woff") format('woff'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.ttf") format('truetype'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/BebasNeue-webfont.svg#BebasNeueRegular") format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'ColaborateThinRegular';
-    src: url("https://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.eot");
-    src: url("https://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.eot?#iefix") format('embedded-opentype'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.woff") format('woff'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.ttf") format('truetype'),
-         url("https://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.svg#ColaborateThinRegular") format('svg');
+    src: url("http://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.eot");
+    src: url("http://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.eot?#iefix") format('embedded-opentype'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.woff") format('woff'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.ttf") format('truetype'),
+         url("http://www.andthewinnerisnt.com/css/../fonts/ColabThi-webfont.svg#ColaborateThinRegular") format('svg');
     font-weight: normal;
     font-style: normal;
 }
